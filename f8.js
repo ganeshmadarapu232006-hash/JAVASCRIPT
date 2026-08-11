@@ -2,4 +2,4 @@ function test() {
     return(15)
     console.log("Hello");
 }
-test();
+ console.log(test());
